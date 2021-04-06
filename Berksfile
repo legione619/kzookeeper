@@ -6,4 +6,4 @@ metadata
  
 cookbook 'java', '= 7.0.0'
 cookbook 'kagent', github: "giabbo79/kagent-chef", branch: "1.0"
-cookbook 'ark', '= 4.0.0'
+cookbook 'ark', '= 5.0.0'
